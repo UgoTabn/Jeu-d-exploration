@@ -37,6 +37,4 @@ deplacement(ville1,ville2,ville3,choixVille,&postionJoueur);
 printf("%d \n",postionJoueur);
 
 
-
-
 }
